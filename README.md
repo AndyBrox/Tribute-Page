@@ -49,7 +49,7 @@
             #danny {
                    width: 232px;
                    border: 8px solid rgb(255,255,255);
-                   right: 20px;
+                   right: 400px;
             }
         </style>
     </head>
