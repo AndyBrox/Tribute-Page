@@ -48,8 +48,8 @@
             }
             #danny {
                    width: 232px;
-                   border: 4px solid rgb(150,0,0);
-                   left:200px;
+                   border: 8px solid rgb(255,255,255);
+                   left:400px;
             }
         </style>
     </head>
