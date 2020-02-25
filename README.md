@@ -47,7 +47,7 @@
                 color: rgb(0, 13, 255);
                 border: 4px solid rgb(150,0,0);
                 position:absolute;
-                left:100px;
+                left:200px;
                 top:650px;
                 font-size:20px;
             }
