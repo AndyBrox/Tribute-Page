@@ -47,8 +47,8 @@
                 color: rgb(0, 13, 255);
                 border: 4px solid rgb(150,0,0);
                 position:absolute;
-                left:47px;
-                top:600px;
+                left:100px;
+                top:650px;
                 font-size:20px;
             }
         </style>
