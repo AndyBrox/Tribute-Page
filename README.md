@@ -40,7 +40,7 @@
             }
             h4 {
                 color: rgb(0, 0, 0);
-                border: 4px solid rgb(150,0,0);
+                
                 position:absolute;
                 left:200px;
                 top:650px;
@@ -48,6 +48,8 @@
             }
             #danny {
                    width: 232px;
+                   border: 4px solid rgb(150,0,0);
+                   left:200px;
             }
         </style>
     </head>
