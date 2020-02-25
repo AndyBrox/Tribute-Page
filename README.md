@@ -36,7 +36,7 @@
                 color: rgb(9,0,255);
                 font-size:19px;
                 font-family: cursive;
-                padding:84px;
+                padding:200px;
                 position:absolute;
                 top:220px;
                 left:245px;
