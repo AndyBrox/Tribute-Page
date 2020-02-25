@@ -5,30 +5,30 @@
         <title>Project: Event invite</title>
         <style>
         div {
-             background: linear-gradient(to right, #ff0000 0%, #ffffff 100%);
+             background: linear-gradient(to right, #ff0000 0%, #ffffff 85%);
 }
 
             h1 {
-                color: rgb(11, 3, 252);
+                color: rgb(0, 0, 0);
                 border: 4px solid rgb(150, 0, 0);
             }
             h2 {
-                color: rgb(9, 0, 255);
+                color: rgb(0, 0, 0);
                 border: 4px solid rgb(150, 0, 0);
             }
             p {
-                color: rgb(9,0,255);
+                color: rgb(0,0,0);
                 font-size:24px;
             }
             li {
-                color: rgb(9,0,255);
+                color: rgb(0,0,0);
                 padding:16px;
                 width:30%;
                 
             }
        
             h3 {
-                color: rgb(9,0,255);
+                color: rgb(0,0,0);
                 font-size:19px;
                 font-family: cursive;
                 padding:84px;
@@ -39,12 +39,15 @@
                 
             }
             h4 {
-                color: rgb(0, 13, 255);
+                color: rgb(0, 0, 0);
                 border: 4px solid rgb(150,0,0);
                 position:absolute;
                 left:200px;
                 top:650px;
                 font-size:15px;
+            }
+            #danny {
+                   width: 232px;
             }
         </style>
     </head>
@@ -73,6 +76,6 @@
         </ul>
         <h3>Just a get together event to have fun and meet new people and see familiar faces. May have more events in the near future so stay tuned if you are interested.</h3>
         <h4>Sincerely: Andy Brox</h4>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg">
+        <img id="danny" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg">
     </body>
 </html>
