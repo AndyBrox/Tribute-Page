@@ -39,7 +39,7 @@
                 padding:84px;
                 position:absolute;
                 top:220px;
-                left:245px;
+                left:400px;
                 
                 
             }
