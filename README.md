@@ -4,9 +4,10 @@
         <meta charset="utf-8">
         <title>Project: Event invite</title>
         <style>
-        body {
-            background-color: rgb(0, 0, 0);
-        }
+        div {
+             background: linear-gradient(to bottom, #ff0000 0%, #ffffff 100%);
+}
+
             h1 {
                 color: rgb(11, 3, 252);
                 border: 4px solid rgb(150, 0, 0);
