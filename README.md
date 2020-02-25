@@ -17,7 +17,7 @@
                 border: 4px solid rgb(150, 0, 0);
             }
             p {
-                color: rgb(245, 0, 0);
+                color: rgb(9,0,255);
                 font-size:24px;
             }
             li {
@@ -44,7 +44,7 @@
                 position:absolute;
                 left:200px;
                 top:650px;
-                font-size:20px;
+                font-size:15px;
             }
         </style>
     </head>
