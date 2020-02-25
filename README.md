@@ -48,7 +48,7 @@
                 border: 4px solid rgb(150,0,0);
                 position:absolute;
                 left:47px;
-                top:900px;
+                top:950px;
                 font-size:20px;
             }
         </style>
@@ -76,7 +76,7 @@
                 To enter cost $2.50 per Adult, Kids under 7 are free
             </li>
         </ul>
-        <img id="cars" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/35th_Classic_Car_Show_in_Fergus_Falls_Otter_Tail_County_Minnesota.jpg"width="300">
+       
         <h3>Just a get together event to have fun and meet new people and see familiar faces. May have more events in the near future so stay tuned if you are interested.</h3>
         <h4>Sincerely: Andy Brox</h4>
     </body>
