@@ -5,7 +5,7 @@
         <title>Project: Event invite</title>
         <style>
         div {
-             background: linear-gradient(to right, #ff0000 0%, #ffffff 85%);
+             background: linear-gradient(to top, #ff0000 0%, #ffffff 100%);
 }
 
             h1 {
@@ -52,9 +52,8 @@
         </style>
     </head>
     <body>
-        
-        <h1>You're invited!</h1>
-        <h2>To my car show!</h2>
+       
+        <h2></h2>
         
         <p>The details:</p>
         <ul>
@@ -75,7 +74,7 @@
             </li>
         </ul>
         <h3>Just a get together event to have fun and meet new people and see familiar faces. May have more events in the near future so stay tuned if you are interested.</h3>
-        <h4>Sincerely: Andy Brox</h4>
+        <h4></h4>
         <img id="danny" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg">
     </body>
 </html>
