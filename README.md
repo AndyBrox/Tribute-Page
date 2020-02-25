@@ -14,7 +14,7 @@
             }
             h2 {
                 color: rgb(0, 0, 0);
-                border: 4px solid rgb(150, 0, 0);
+                
             }
             p {
                 color: rgb(0,0,0);
@@ -49,7 +49,7 @@
             #danny {
                    width: 232px;
                    border: 8px solid rgb(255,255,255);
-                   left:400px;
+                   right: 20px;
             }
         </style>
     </head>
