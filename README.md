@@ -5,7 +5,8 @@
         <title>Project: Event invite</title>
         <style>
         div {
-             background:  linear-gradient(to top left, #ff0000 0%, #ffffff 100%);
+             background: linear-gradient(to top left, #ff0000 20%, #ffffff 100%);
+
 }
 
             h1 {
