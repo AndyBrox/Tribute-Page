@@ -25,13 +25,7 @@
                 width:30%;
                 
             }
-            #cars {
-                width: 232px;
-                position:absolute;
-            top:148px;
-            right:20px;
-            
-            }
+       
             h3 {
                 color: rgb(9,0,255);
                 font-size:19px;
@@ -78,5 +72,6 @@
         </ul>
         <h3>Just a get together event to have fun and meet new people and see familiar faces. May have more events in the near future so stay tuned if you are interested.</h3>
         <h4>Sincerely: Andy Brox</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg">
     </body>
 </html>
