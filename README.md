@@ -50,14 +50,7 @@
         
         
         <h3>Danny Devito is an American actor, director, producer, and screenwriter. He got famous by is role in television series "Taxi" as a taxi dispatcher named Louie De Palma. </h3>
-
         
-        
-        <h3>Danny Devito is an American actor, director, producer, and screenwriter. He got famous by is role in Taxi</h3>
-        <h4></h4>
-        <img id="danny" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg">
-    </body>
-</html>
         <img id="danny" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg">
     </body>
 </html>
